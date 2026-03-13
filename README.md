@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikrishna Manivannan</h1>
-
-<h3 align="center">
-AI Engineer • Machine Learning Developer • Software Engineer
-</h3>
+<h3 align="center">AI Engineer | Machine Learning Developer | Software Engineer</h3>
 
 <p align="center">
 Building intelligent software systems using Artificial Intelligence and Data
@@ -16,9 +13,9 @@ Building intelligent software systems using Artificial Intelligence and Data
 
 # 🧠 About Me
 
-I am an **Artificial Intelligence and Machine Learning Engineer** passionate about building intelligent software systems that solve complex real-world problems using **data, algorithms, and scalable technologies**.
+I am an **Artificial Intelligence and Machine Learning Engineer** passionate about building intelligent software systems that solve real-world problems.
 
-My work focuses on developing advanced AI systems across areas such as:
+My interests include:
 
 • Machine Learning  
 • Deep Learning  
@@ -27,19 +24,19 @@ My work focuses on developing advanced AI systems across areas such as:
 • Data Science  
 • Intelligent Automation  
 
-I enjoy transforming data into powerful decision-making systems and continuously exploring cutting-edge advancements in artificial intelligence.
+I enjoy designing systems that transform **data into intelligent decision-making solutions**.
 
 ---
 
 # 🚀 Current Focus
 
-🔬 Building AI-driven software systems  
+🔬 Developing AI-powered software systems  
 
-📊 Machine Learning model development  
+📊 Machine learning model development  
 
-🧠 Deep learning research and experimentation  
+🧠 Deep learning experimentation  
 
-📈 Data-driven predictive systems  
+📈 Data-driven predictive analytics  
 
 🤖 Intelligent automation platforms  
 
@@ -63,7 +60,6 @@ Machine Learning
 Deep Learning  
 Computer Vision  
 Natural Language Processing  
-Predictive Analytics  
 
 ---
 
@@ -93,64 +89,6 @@ Containerization
 
 ---
 
-# 🧩 Software Projects
-
-## 🤖 AI-Based Vehicle Detection using Audio Signals
-
-Machine learning system designed to detect vehicles using audio signal analysis.
-
-Features:
-
-• Audio feature extraction  
-• Machine learning classification  
-• Signal processing techniques  
-• Intelligent prediction models  
-
-Technologies:
-
-Python  
-Machine Learning  
-Signal Processing  
-
----
-
-## 📊 Machine Learning Model Development
-
-Developed multiple machine learning models for predictive analytics and classification tasks.
-
-Focus Areas:
-
-• Supervised learning  
-• Unsupervised learning  
-• Model optimization  
-• Feature engineering  
-
-Technologies:
-
-Scikit-Learn  
-Pandas  
-NumPy  
-
----
-
-## 🧠 Deep Learning Experiments
-
-Research and experimentation with neural networks and deep learning models.
-
-Focus Areas:
-
-• Neural network architectures  
-• CNN models  
-• Training optimization  
-• Model evaluation  
-
-Technologies:
-
-TensorFlow  
-PyTorch  
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -167,14 +105,6 @@ PyTorch
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikrishna290&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ravikrishna290&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -202,7 +132,7 @@ raviiit23@gmail.com
 
 # 🎯 Vision
 
-My mission is to build **AI-powered intelligent software systems** that transform data into actionable insights and create meaningful technological impact.
+My goal is to build **AI-powered intelligent software systems** that transform data into actionable insights and create meaningful technological impact.
 
 I aim to contribute to the advancement of:
 
